@@ -21,5 +21,7 @@ This was initially developed for the Pakistani Student Association at Rutgers Un
 
 ## How It Works
 The system waits for an NFC tag to be scanned and reads its UID. The UID, along with the current timestamp, is logged in an Excel sheet for attendance tracking.
+Most users were able to use a mobile app to generate and transmit the UID, allowing them to seamlessly check in by simply swiping their phones as they entered the room.
+
 
 
